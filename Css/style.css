@@ -1,0 +1,371 @@
+.nav-link {
+    color: white !important;
+    padding-bottom: 0px;
+    text-align: center;
+    
+}
+
+@media (min-width: 992px) {
+   
+
+
+ 
+    .movebottom {
+        margin-top:70px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-left:100px;
+    }
+
+    
+  
+    .nav-item {
+        padding-left:25px;
+    }
+
+   
+    .movingTxt{
+        margin-right:30px;
+    }
+
+   
+    .selected {
+        border: 2px solid #E5FEFF;
+        
+        padding: 0px 5px;
+    }
+
+ 
+
+    .hamsterHome {
+       
+        height: 350px;
+
+        width: 462px;
+        object-position: center;
+        max-width: 100%; 
+        
+        object-fit: cover;
+
+
+       
+    }
+
+}
+
+@media (min-width: 768px) {
+   
+    .btmPosition {
+        margin-top:70px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-left:10px;
+    }
+
+    .nav-item {
+        padding-left:10px;
+    }
+
+    .nav-link:hover {
+        border: 2px solid #E5FEFF;
+        padding: 0px 5px;
+    }
+}
+
+.navbar-toggler{
+    border-color: white !important;
+    margin-left:20px;
+}
+
+.navColor {
+    background-color:#2737e7d2;
+}
+
+
+.sizeNew16 {
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    border: 2px solid #E5FEFF;
+    padding: 0px 0px;
+}
+
+.newHeader {
+    background-image: url("../assets/header.jpg");
+   
+   
+    height: 100%;
+    background-position: center;
+    
+    
+    background-size: cover;
+    margin-top:200px;
+}
+
+
+.backgrndHead {
+    background-color: #333fc5;
+    opacity: 80%;
+   
+   
+    margin-top: 250px;
+    margin-bottom: 200px;
+    
+    
+    padding-bottom: 60px;
+    padding-top: 30px;
+    
+    text-align: center;
+}
+
+.txtNow {
+    font-size: 45px;
+
+
+
+    padding-top: 45px;
+    margin-bottom: 0px;
+
+}
+
+.dsFont {
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+
+
+.txtAgain {
+    line-height: 40px;
+
+
+}
+
+
+
+.colorBlu {
+    color: #1A1B26;
+}
+
+.sizeNow35
+
+{
+
+    font-size: 35;
+}
+
+.trophyImg {
+    padding-top:10px;
+   
+    max-height: 150px;
+    
+}
+
+
+.backgrndRoom {
+    background-image: url("../assets/bg2.jpg");
+
+    background-position: center;
+
+    background-size: cover;
+}
+
+.headtoRoom {
+
+    margin-top: 18 px;
+    
+    font-size: 22px;
+
+
+
+}
+
+.card {
+    border: none;
+    margin-right:0px;
+    
+}
+
+.roomTall {
+    height: auto; 
+}
+
+.roomdesc {
+    size: 16px;
+    font-weight: bolder;
+}
+
+.roomlist {
+
+    padding-bottom: 0;
+}
+
+.reservebtn {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+   
+    border-radius: 0;
+    background-color: #004CC7;
+}
+
+
+.snappeaimg2 {
+    width: 369px;
+    height: 416px; 
+    height: 400px; 
+   
+    object-fit: cover;
+    object-position: center;
+}
+
+
+.fontsize25 {
+    font-size: 25px;
+}
+
+
+.roomhead {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.packageObject {
+    color: #1F51A8;
+}
+
+.newWedding {
+    width: 700px; 
+    
+    height: 200px; 
+    object-fit: cover;
+    
+    object-position: 20% 10%; 
+}
+
+.newWedding2 {
+    width: 700px; 
+    height: 200px;
+    object-fit: cover;
+    object-position: 20% 30%; 
+}
+
+.newWedding3 {
+    width: 700px; 
+    height: 200px; 
+    object-fit: cover;
+    object-position: 20% 70%; 
+}
+
+.newBg4 {
+    background-image: url("../assets/bg.jpg");
+    
+    background-position: 0% 70%;
+    background-size: cover;
+    height: 200 px;
+}
+
+.clearColor {
+    color: white;
+}
+
+.rsvpBackgrnd {
+    background-color: #000324;
+
+
+    margin-bottom: 90px;
+}
+
+
+
+.valetimg {
+    max-height: 104px;
+}
+
+.logoimg {
+    max-height: 100px;
+    max-width: 143px;
+    height:100%;
+    width:100%;
+}
+
+
+
+.Bluu {
+    color: #E5FEFF;
+}
+
+.cheesePic {
+    padding-right: 0px;
+    padding-left: 0px;
+    object-fit: cover;
+    height: 100%; 
+    max-height: 400px;
+    width: 100%;
+}
+
+.btn pull-right{
+    justify-content: baseline;
+
+
+}
+
+.footerbg {
+    background-color: #000324;
+}
+
+.logoimgf {
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+    max-height: 150px;
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.fsize20{
+    font-size:20px;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .roomdesc {
+        font-size: 23px;
+        font-weight: bolder;
+    }
+
+    .roomlist {
+        font-size: 20px;
+        line-height: 1.3;
+        padding-bottom: 0;
+    }
+
+    .roomhead {
+        font-size: 30px;
+        padding-top: 5px;
+    }
+
+  
+
+   
+
+    .fsize25 {
+        font-size:28px;
+    }
+
+    .btn{
+        padding:15px;
+        font-size:23px !important;
+    }
+
+    .reservebtn {
+        font-size:23px !important;
+    }
+}
+
+.active{
+    border: 2px solid #E5FEFF;
+    padding: 0px 5px;
+}
