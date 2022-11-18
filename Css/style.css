@@ -2,7 +2,13 @@
     color: white !important;
     padding-bottom: 0px;
     text-align: center;
+   
     
+}
+
+.container-fluid {
+
+    padding: 0;
 }
 
 @media (min-width: 992px) {
@@ -59,11 +65,11 @@
         margin-top:70px;
         margin-bottom: 0px;
         padding-bottom: 0px;
-        padding-left:10px;
+        padding-left:100px;
     }
 
     .nav-item {
-        padding-left:10px;
+        padding-left:25px;
     }
 
     .nav-link:hover {
@@ -78,7 +84,7 @@
 }
 
 .navColor {
-    background-color:#2737e7d2;
+    background-color:#000324;
 }
 
 
@@ -86,9 +92,19 @@
     font-size: 16px;
 }
 
+.sizeNew22 {
+
+    font-size: 22px;
+}
+
 .nav-link:hover {
     border: 2px solid #E5FEFF;
     padding: 0px 0px;
+}
+
+.size20 {
+
+    font-size: 20px;
 }
 
 .newHeader {
@@ -100,12 +116,12 @@
     
     
     background-size: cover;
-    margin-top:200px;
+    /* margin-top:200px; */
 }
 
 
 .backgrndHead {
-    background-color: #333fc5;
+    background-color: #000324;
     opacity: 80%;
    
    
@@ -130,6 +146,7 @@
 }
 
 .dsFont {
+
     font-family: 'Dosis', sans-serif;
 }
 
@@ -152,8 +169,12 @@
 .sizeNow35
 
 {
+font-size: 35px;
+}
 
-    font-size: 35;
+.sizeNow25 {
+
+    font-size: 25px;
 }
 
 .trophyImg {
@@ -197,7 +218,7 @@
     font-weight: bolder;
 }
 
-.roomlist {
+.removePadding {
 
     padding-bottom: 0;
 }
@@ -263,7 +284,7 @@
     
     background-position: 0% 70%;
     background-size: cover;
-    height: 200 px;
+    
 }
 
 .clearColor {
@@ -279,11 +300,11 @@
 
 
 
-.valetimg {
+.moveImg {
     max-height: 104px;
 }
 
-.logoimg {
+.iconicJPG {
     max-height: 100px;
     max-width: 143px;
     height:100%;
@@ -291,12 +312,21 @@
 }
 
 
+.srcTxt {
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+ 
+}
+
+
+
 
 .Bluu {
     color: #E5FEFF;
 }
 
-.cheesePic {
+.reservePic {
     padding-right: 0px;
     padding-left: 0px;
     object-fit: cover;
@@ -311,11 +341,11 @@
 
 }
 
-.footerbg {
+.bottomCompany {
     background-color: #000324;
 }
 
-.logoimgf {
+.logoAgain  {
     margin-top: 20px;
     height: 100%;
     width: 100%;
@@ -324,14 +354,17 @@
     margin-bottom: 20px;
 }
 
-.fsize20{
+/* .fsize20{
     font-size:20px;
-}
+} */
 
 
-@media screen and (max-width: 768px) {
 
-    .roomdesc {
+
+
+@media screen and (max-width: 740px) {
+
+    /* .roomdesc {
         font-size: 23px;
         font-weight: bolder;
     }
@@ -340,7 +373,7 @@
         font-size: 20px;
         line-height: 1.3;
         padding-bottom: 0;
-    }
+    } */
 
     .roomhead {
         font-size: 30px;
@@ -349,11 +382,14 @@
 
   
 
-   
+   .font20{
 
-    .fsize25 {
+    font-size: 20px;
+   }
+/* 
+    . {
         font-size:28px;
-    }
+    } */
 
     .btn{
         padding:15px;
